@@ -1,6 +1,6 @@
 # zsh-git-lfs
 
-This plugin adds short aliases for the [`git-lfs (AVH Edition)`](https://github.com/git-lfs/git-lfs) commands.
+This plugin adds short aliases for the [`git-lfs`](https://github.com/git-lfs/git-lfs) commands.
 
 ## Usage
 
@@ -57,5 +57,5 @@ there is more convenient alias:
 
 ## Requirements
 
-1. The git-flow tool has to be [installed](https://github.com/petervanderdoes/gitflow-avh#installing-git-flow)
+1. The git-lfs tool has to be [installed](https://github.com/git-lfs/git-lfs#installing)
    separately.
